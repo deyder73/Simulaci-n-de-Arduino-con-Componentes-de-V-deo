@@ -1,10 +1,10 @@
 # Informe
 
-### Simulaci-n-de-Arduino-con-Componentes-de-V-deo
+### Simulación de Arduino con Componentes de Vídeo
 
 **1.PLANTEAMIENTO DEL PROBLEMA**
 
-
+Arduino es una placa en donde se puede controlar ciertos dispositivos eléctrónicos por medio de perifericos d entrada a los perifericos de salida gracias a su microcontrolador interno. Es muy útil para la realización de proyectos ya que no requiere un gran conocimiento en el manejo de las plataforma 
 
 **2. OBJETIVOS**
 
