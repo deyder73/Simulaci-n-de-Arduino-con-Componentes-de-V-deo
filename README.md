@@ -36,6 +36,8 @@ Arduino es una placa en donde se puede controlar ciertos dispositivos eléctrón
 
 4.4.1 Almacenamiento
 
+Se debe almacenarla capacidad de almacenamiento depende exclusivamente del aparato portador
+
 4.4.2. Virtualización
 
 4.4.3 Otros servicios
